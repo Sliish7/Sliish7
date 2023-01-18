@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently studying at Plovdiv University (Software technologies and desing) and recently started C# path at SoftUni.
 
 <!--
 **Sliish7/Sliish7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
